@@ -1,0 +1,9 @@
+﻿Pokemon
+Card1.gif
+Card2.gif
+Card3.gif
+Card4.gif
+Card5.gif
+Card6.gif
+Card7.gif
+Card8.gif
